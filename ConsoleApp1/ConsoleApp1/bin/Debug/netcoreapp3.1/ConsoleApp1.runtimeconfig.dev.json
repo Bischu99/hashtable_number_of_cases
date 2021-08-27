@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BESTECH\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BESTECH\\.nuget\\packages"
+    ]
+  }
+}

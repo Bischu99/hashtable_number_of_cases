@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQdjpLwLcRuB8kCahlK7PqLqhBdSXO14yY07P7O9L1t5qTUV0tpE41xwW64RqCzy1kH0gz7Qnn2aFIpSfS75Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BESTECH\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BESTECH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BESTECH\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\BESTECH\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\BESTECH\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
